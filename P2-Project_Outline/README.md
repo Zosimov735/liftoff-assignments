@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The project we are creating is an e-commerce website that offers movies for sale to users. This is a flexible site, with potential for tons of different features depending on how far along we are going to get in development.
 ### Features
-Include Features here
+1. API
+2. Persistence
+3. Login
+4. Register
+5. Cart
+6. Admin situation
+7. Search/Filter
 ### Technologies
-Include Technologies here
+JS/React + Java/Spring frameworks
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Working with the API in Java is a challenge we face, parsing json in java is not something we worked with, so that will need to be learned. Spring security is a high priority for me to learn. If possible on top of spring sec I would like to learn and implement OAuth2. Working with a team. I think there will also be a lot of React that is available tpo be learned from this project even if I'm focusing on the backend portion.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/i6Zt931w/liftoff-team-tjovi
