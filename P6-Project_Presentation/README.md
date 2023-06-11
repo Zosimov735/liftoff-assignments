@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[LaunchCode Presentation.pdf](https://github.com/Zosimov735/liftoff-assignments/files/11715470/LaunchCode.Presentation.pdf)
